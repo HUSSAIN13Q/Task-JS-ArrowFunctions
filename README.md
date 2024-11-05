@@ -1,6 +1,6 @@
 # JS-ArrowFunctions
 
-## Instructions
+## Instructionsj
 
 - Fork and clone [this repository](https://github.com/JoinCODED/TASK-JS-ArrowFunctions) to your `Development` folder.
   - ```bash
